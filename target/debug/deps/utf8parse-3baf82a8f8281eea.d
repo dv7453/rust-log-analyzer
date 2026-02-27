@@ -1,0 +1,8 @@
+/Users/dhruvvadhiya/Desktop/rust/log_analyzer/target/debug/deps/utf8parse-3baf82a8f8281eea.d: /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/Users/dhruvvadhiya/Desktop/rust/log_analyzer/target/debug/deps/libutf8parse-3baf82a8f8281eea.rlib: /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/Users/dhruvvadhiya/Desktop/rust/log_analyzer/target/debug/deps/libutf8parse-3baf82a8f8281eea.rmeta: /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
+
+/Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs:
+/Users/dhruvvadhiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs:

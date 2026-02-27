@@ -1,0 +1,8 @@
+2023-10-27 10:00:01 INFO Application started
+2023-10-27 10:00:02 DEBUG Establishing database connection
+2023-10-27 10:00:03 INFO Database connection successful
+2023-10-27 10:00:05 WARN Deprecated API usage detected
+2023-10-27 10:01:10 ERROR Failed to load user profile: connection timeout
+2023-10-27 10:01:15 DEBUG Retrying profile load...
+2023-10-27 10:01:20 ERROR Failed to load user profile: connection timeout
+2023-10-27 10:02:00 INFO Shutting down application gracefully
